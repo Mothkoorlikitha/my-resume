@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my resume</title>
+    <meta name=" description"
+          content = "this is the best webside to built a resume"
+</head>
+<style>
+ h3
+ {
+ color: rgba(15, 148, 192, 0.811);
+ }
+</style>
+<body>
+    <img scr
+    <h1 style:"color= blue">likitha</h1>
+    <p>97047286</p>
+    <p>likitha@gmail.com</p>
+    <h3>Objective</h3>
+    <p>Computer Science graduate with expertise in HTML, CSS, and Python. Skilled in creating user-friendly websites and tackling technical challenges. Excellent communicator, adept at collaborating with teams and clients. Committed to continuous learning and innovation, making me a versatile candidate for web development and software engineering roles</p>
+    <h3>Education</h3>
+    <table border="1">
+        <tr>
+          <th>class</th>
+          <th>board</th>
+          <th>CGPA</th>
+        </tr>
+        <tr>
+          <td>10TH</td>
+          <td>SSC</td>
+          <td>8.8</td>
+        </tr>
+        <tr>
+          <td>12TH</td>
+          <td>STATE BOARD</td>
+          <td>8.4</td>
+        </tr>
+          <td>BTECH</td>
+          <td>JNTU</td>
+          <td>7.2</td>
+        </tr>
+      </table>
+      <h3>Project</h3>
+      <ol>
+        <li>Enhanced dibatice eye screening </li>
+        <li>gesture and voice controlled virtual mouse</li>
+      </ol>
+</body>
+</html>
